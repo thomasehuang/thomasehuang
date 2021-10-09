@@ -5,7 +5,6 @@
 
 - 🔭  PhD Student
 - 🌎  Zürich, Switzerland
-- ⚡ Fun fact: I have a cute little [twin brother](https://github.com/Anthuang)
 
 #### Links:
 
